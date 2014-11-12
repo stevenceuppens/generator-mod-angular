@@ -1,6 +1,6 @@
 {
   "name": "generator-mod-angular",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Yeoman Angular Generator",
   "license": "MIT",
   "main": "app/index.js",
