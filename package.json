@@ -1,6 +1,6 @@
 {
   "name": "generator-mod-angular",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Yeoman Angular Generator",
   "license": "MIT",
   "main": "app/index.js",
@@ -20,7 +20,14 @@
     "app"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "scaffold",
+    "framework",
+    "component",
+    "front-end",
+    "angular",
+    "gulp",
+    "bower"
   ],
   "dependencies": {
     "yeoman-generator": "^0.17.0",
