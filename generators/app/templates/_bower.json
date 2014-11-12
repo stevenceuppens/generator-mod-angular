@@ -1,0 +1,13 @@
+{
+  "name": "<%= _.slugify(appname) %>",
+  "version": "0.0.0",
+  "dependencies": {
+  	"angular": "*",
+  	"angular-ui-router": "*",
+  	"restangular": "*",
+  	"bootstrap": "*",
+  	"font-awesome": "*",
+  	"modernizr": "*"
+  }
+}
+

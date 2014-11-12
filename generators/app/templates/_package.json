@@ -1,0 +1,26 @@
+{
+  "name": "<%= _.slugify(appname) %>",
+  "version": "0.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "*",
+    "browser-sync": "*",
+    "gulp-minify-html": "*",
+    "gulp-sass": "*",
+    "gulp-sass": "*",
+    "gulp-inject": "*",
+    "gulp-size": "*",
+    "gulp-flatten": "*",
+    "gulp-minify-css": "*",
+    "gulp-concat": "*",
+    "gulp-clean": "*",
+    "run-sequence": "*",
+    "gulp-uglify": "*",
+    "gulp-jshint": "*",
+    "wiredep": "*",
+    "gulp-usemin": "*",
+    "gulp-angular-filesort": "*",
+    "gulp-ng-annotate": "*",
+    "gulp-angular-templatecache": "*"
+  }
+}

@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html ng-app="<%= _.slugify(appname) %>">
+
+<head>
+
+	<title><%= _.slugify(appname) %></title>
+
+	<!-- build:css css/vendor.min.css -->
+	<!-- bower:css -->
+  	<!-- endbower -->
+  	<!-- endbuild -->
+
+	<!-- inject:css -->
+	<!-- endinject -->
+
+</head>
+
+<body>
+	
+	<div class="container">
+		<div class="jumbotron" ng-init="name = 'world'">
+			<h1>Hello, {{name}}!</h1>
+		</div>
+	</div>
+
+	<!-- build:js app/vendor.min.js -->
+	<!-- bower:js -->
+  	<!-- endbower -->
+  	<!-- endbuild -->
+
+	<!-- inject:js -->
+	<!-- endinject -->
+
+</body>
+</html>
